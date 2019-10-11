@@ -1,0 +1,14 @@
+{
+	"showToBook":"Mamma Mia",
+	"DateOfShow":{
+		"Day":"23",
+		"Month":"November",
+		"Year":"2019",
+		"Time":"3pm"
+},
+	"seats":["M7","M8"],
+	"creditCardNo":"4242 4242 4242 4242",
+	"Expiry":"03/22",
+	"CVV" : "100"
+	
+}
